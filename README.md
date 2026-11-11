@@ -1,6 +1,9 @@
 # bonebake-2d
 Bake 3D skeletal animations into skinned 2D bones. Swap mesh/weights/textures to make multiple characters 。。with one rig, and export DragonBones
 # 3D 骨骼动画 → 2D 骨骼动画（蒙皮 + 换素材做多角色）
+<img width="1900" height="955" alt="chrome_jPYkalldGp" src="https://github.com/user-attachments/assets/18d11365-182e-4d89-a3ec-3704dbf288e8" />
+<img width="1913" height="964" alt="chrome_VeQRxba4Iz" src="https://github.com/user-attachments/assets/aba5dec0-a084-4915-8d35-70eeec59e61d" />
+<img width="1915" height="985" alt="3V8zjVESGh" src="https://github.com/user-attachments/assets/908745cf-f361-499d-b672-a43beb4a00d5" />
 
 把 3D 的骨骼动画烘焙成 **2D 骨骼动画**：2D 网格做线性混合蒙皮，胳膊肘、膝盖会真正弯起来；
 动画按骨长归一化，**换一套素材（网格 + 权重 + 贴图）就是另一个角色**，骨架和动画完全不动。
